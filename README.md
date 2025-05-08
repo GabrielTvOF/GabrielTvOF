@@ -1,4 +1,4 @@
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielTvOF&theme=monokai&width_card=450"
 </div>
