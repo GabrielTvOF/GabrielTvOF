@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
   <div align="center">
-          💼 Estudante do SENAI em DS
+          💼 Formado no SENAI em DS
 
   </div>
   <div align="center">
